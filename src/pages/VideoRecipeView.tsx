@@ -6,8 +6,6 @@ function VideoRecipeView (){
     const navigate = useNavigate()
     const { 
         titulo = "Sin titulo",
-        link = "",
-        imagen = "null",
         autor = "null"
     } = location.state || {};
     return (

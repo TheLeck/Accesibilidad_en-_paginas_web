@@ -4,11 +4,11 @@ import NavMenu from "../components/navMenu";
 function Home () {
     return (
         <>
-            <header>
+            <header lang="es">
                 <NavMenu/>
             </header>
 
-            
+            <main lang="es">
             <section className="text-center bg-primary text-white py-5">
                 <div className="container">
                 <h1 className="display-4">Descubre Recetas Deliciosas</h1>
@@ -107,7 +107,7 @@ function Home () {
                 </div>
                 </div>
             </section>
-
+            </main>
 
         </>
     )

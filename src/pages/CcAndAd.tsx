@@ -1,8 +1,8 @@
 function CcAndAd () {
     return (
         <>
-        <h1>CC y AD de "Enchiladas verdes"</h1>
-        <ul className="list-group">
+        <h1 lang="es">CC y AD de "Enchiladas verdes"</h1>
+        <ul className="list-group" lang="es">
             <li className="list-group-item list-group-item-info text-start">
                 [Música]
             </li>
