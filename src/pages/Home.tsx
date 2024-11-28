@@ -24,7 +24,7 @@ function Home () {
                 <p>En **Delicias al Plato**, nos apasiona compartir la alegría de cocinar. Desde recetas tradicionales hasta platillos innovadores, queremos inspirarte a crear momentos inolvidables en la mesa.</p>
                 <h3 className="mt-4">Nuestra Filosofía</h3>
                 <p>Cocinar es más que preparar alimentos; es una forma de arte que une a las personas. Nuestro objetivo es empoderarte con recetas claras, prácticas y sabrosas para que disfrutes del proceso tanto como del resultado.</p>
-                <h4 className="mt-3">¿Por qué Elegirnos?</h4>
+                <h3 className="mt-3">¿Por qué Elegirnos?</h3>
                 <p>Contamos con una comunidad de amantes de la cocina que comparten sus recetas favoritas y consejos prácticos. Además, nuestras recetas están categorizadas para facilitar tu búsqueda y garantizar que encuentres justo lo que necesitas.</p>
                 <p>Para explorar más sobre nosotros, visita nuestro <a href="#contact" className="text-primary">formulario de contacto</a> o síguenos en <a href="https://instagram.com" target="_blank" className="text-primary">nuestras redes sociales</a>.</p>
             </div>
