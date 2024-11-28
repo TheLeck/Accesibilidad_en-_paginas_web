@@ -48,7 +48,7 @@ function VideoRecipeView (){
                     }}
                 >
                     <h1 lang="es">TD de "Enchiladas verdes"</h1>
-                    <ul className="list-group" lang="es">
+                    <ul className="list-group" lang="es" role="presentation">
                         <li className="list-group-item list-group-item-info text-start">
                             [Música]
                         </li>
