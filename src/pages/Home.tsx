@@ -34,7 +34,7 @@ function Home () {
             <section id="recipes" className="py-5 bg-light">
                 <div className="container">
                 <h2 className="text-center mb-4">Nuestras Recetas</h2>
-                <img src="https://th.bing.com/th/id/OIP.wP8_enH0VFC5jPZw8PQvXQHaDo?rs=1&pid=ImgDetMain" alt="Imagen de un sitio web de recetas" className="img-fluid mb-4"/>
+                <img src="https://th.bing.com/th/id/OIP.wP8_enH0VFC5jPZw8PQvXQHaDo?rs=1&pid=ImgDetMain" alt="sitio web de recetas" className="img-fluid mb-4"/>
                 <div className="table-responsive">
                     <table className="table table-striped">
                     <thead className="table-dark">
